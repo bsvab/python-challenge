@@ -17,7 +17,7 @@ The final script should also both print the analysis to the terminal and export 
 <br>
 
 <ins>Final Script Outputs</ins>:<img src="Images/uta_icon_checkmark.svg" width="30" height="12">  <br>
-![PyBankResults](../python-challenge/Images/PyBankResults.png)
+![PyBankResults](Images/PyBankResults.png)
 <br>
 <br>
 
@@ -38,7 +38,7 @@ In addition, your final script should both print the analysis to the terminal an
 <br>  
 
 <ins>Final Script Outputs</ins>:<img src="Images/uta_icon_checkmark.svg" width="30" height="12">  <br>
-![PyPollResults](../python-challenge/Images/PyPollResults.png)
+![PyPollResults](Images/PyPollResults.png)
 <br>  
 <br>
 
