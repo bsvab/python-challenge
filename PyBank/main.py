@@ -28,7 +28,7 @@ with open(csvpath) as csvfile:
         if row_count >= 1:                                      # conditional needed to skip the first value since there is nothing to calculate a delta from
             profloss_change = int(row[1])-profloss              # calc profloss_change and apply to variable
             list_profloss_change.append(profloss_change)        # populate list
-            list_dates.append(dates)
+            list_dates.append(dates)                            # populate list
         profloss = int(row[1])                                  # apply profloss value to variable
         total_profloss += profloss                              # increase accumulator for total_profloss
         row_count += 1                                          # increase accumulator for row (month) count
