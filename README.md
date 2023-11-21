@@ -1,5 +1,4 @@
-# python-challenge
-## Module 3 Challenge
+# Module 3 Challenge
 
 ### <p style="color:#CC6600">Part 1  |  PyBank</p> 
 
